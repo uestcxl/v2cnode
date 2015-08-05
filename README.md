@@ -5,5 +5,6 @@
 |-v2cnode
 |---css
 |---js
+|-----bower_components
 |---images
 |---*.html
