@@ -1,0 +1,25 @@
+/** {
+	margin: 0px;
+	height: 0px;
+}
+*/
+header {
+	height: 44px;
+	width: 100%;
+}
+
+footer {
+	height: 80px
+	width: 100%
+}
+
+.content {
+	width: 970px;
+	margin: 0px auto;
+	background: #444;
+}
+
+#logo img {
+	width: 120px;
+	height: 28px;
+}
