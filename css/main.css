@@ -4,39 +4,3 @@ html, body {
 	padding: 0px;
 }
 
-header {
-	height: 45px;
-	width: 970px;
-	margin: 0px auto;
-
-}
-
-footer {
-	height: 80px;
-	width: 970px;
-	margin: 900px auto 0px auto;
-}
-
-.content {
-	margin: 0px auto;
-	background: #444;
-}
-
-.content {
-
-}
-
-#logo img {
-	width: 120px;
-	height: 28px;
-}
-
-.inner {
-	margin: 0px auto;
-}
-
-#wapper {
-	margin: 45px auto;
-	height: 
-	background-image: url("../images/shadow_light.png");
-}
